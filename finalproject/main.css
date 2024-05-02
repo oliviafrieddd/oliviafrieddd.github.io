@@ -1,0 +1,62 @@
+body {
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+    font-size: 125px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-family: 
+  }
+
+  .datawrapper-chart {
+    width: 10 px;
+    height: 10 px;
+}
+
+
+  h2{
+    color: black;
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 25px
+
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    color: black
+  }
+
+  body {
+
+    color: black
+  }
+
+  p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+  img {  
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    margin-left: 25px;
+  }
+
+
